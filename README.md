@@ -8,8 +8,8 @@ As Kanye West said:
 ## This is an h2 tag
 ###### This is an h6 tag
 
-*This text will be italic*
-_This will also be italic_
-**This text will be bold**
-__This will also be bold__
-*You **can** combine them*
+*This text will be italic*<br>
+_This will also be italic_<br>
+**This text will be bold**<br>
+__This will also be bold__<br>
+*You **can** combine them*<br>
